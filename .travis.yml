@@ -24,7 +24,7 @@ script:
 - docker tag reverseproxy jlildev/udagram-reverseproxy:latest
 - docker tag udagram-api-user jlildev/udagram-api-user:latest
 - docker tag udagram-api-feed jlildev/udagram-api-feed:latest
-- docker tag udagram-frontend jlildev/udagram-frontend:latest
+- docker tag udagram-frontend jlildev/udagram-frontend:local
 after_success:
 
 # Push
