@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend-feed
-        image: jlildev/udagram-api-feed:latest
+        image: jlildev/udagram-api-feed:v2
        
         imagePullPolicy: Always  
         resources:

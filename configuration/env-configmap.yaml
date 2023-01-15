@@ -9,3 +9,4 @@ data:
   JWT_SECRET: testing
   AWS_PROFILE: default
   AWS_BUCKET: mohamed-073321978685-project-dev
+  URL: http://ac1188c04ea1342fe884ce010c8a009d-1630013184.us-west-2.elb.amazonaws.com

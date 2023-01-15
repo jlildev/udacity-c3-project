@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: jlildev/udagram-frontend:latest
+        image: jlildev/udagram-frontend:v2
         imagePullPolicy: Always
         resources:
            requests:
